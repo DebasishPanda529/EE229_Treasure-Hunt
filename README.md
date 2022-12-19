@@ -1,4 +1,4 @@
-# EE229_Treasure-Hunt
+# Treasure Hunt
 
 This particular project required the collective effort of all the participants in order to solve the problem. First of all, each person had to download a file,
 which contains 1000 complex data points, the pattern being unique to his/her roll number(The files are available in the NewData folder). Now, the 1000-point 
